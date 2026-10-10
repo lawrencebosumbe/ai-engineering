@@ -1,0 +1,7 @@
+mcp[cli]
+ollama
+langdetect
+spacy
+presidio-analyzer
+presidio-anonymizer
+pytest

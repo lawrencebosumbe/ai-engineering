@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+requests
+httpx
+spacy
+presidio-analyzer
+presidio-anonymizer
+langdetect
+pytest
